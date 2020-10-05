@@ -6,11 +6,10 @@ import { Component, OnInit, Input } from '@angular/core';
   styleUrls: ['./tips-card.component.scss']
 })
 export class TipsCardComponent implements OnInit {
-  @Input() tip: { imageUrl, text };
+  @Input() tip: { imageUrl, title };
 
   constructor() { }
 
-  ngOnInit() {
-  }
+  ngOnInit():void { }
 
 }

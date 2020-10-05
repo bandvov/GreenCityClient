@@ -80,7 +80,13 @@
       }
     },
     "eco-advices": {
-      "caption": "Tips & Tricks"
+      "caption": "Tips & Tricks",
+      "content": [
+        {"title": "Don't go to the store hungry. Make a shopping list in advance. Then you will spend less and don't buy too much, which will then need to be thrown away"},
+        {"title": "The first and easiest way is to give up packaged products. When buying vegetables or fruits, I don't take packages, but use reusable bags and containers for wet products such as meat or fish."},
+        {"title": "You should try to increase the proportion of plant foods in the diet, instead reduce the consumption of products with preservatives, flavor enhancers."},
+        {"title": "Plant a tree and support the people who preserve and protect our forests. Trees absorb a ton of CO2 throughout their lives, purifying the air."}
+      ]
     },
     "subscription": {
       "caption": "Receive interesting news",
